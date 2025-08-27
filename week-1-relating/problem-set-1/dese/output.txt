@@ -1,0 +1,396 @@
++-----------------------------------------------------------------------------------+---------+
+|                                       name                                        | dropped |
++-----------------------------------------------------------------------------------+---------+
+| Devens School                                                                     | 75      |
+| Southbridge Academy                                                               | 71.4    |
+| New Liberty Innovation School                                                     | 68      |
+| Whaling City Junior/Senior High School                                            | 59.3    |
+| Chicopee Academy                                                                  | 58.8    |
+| Stone PK-12 School                                                                | 57.1    |
+| Springfield Public Day High School                                                | 57.1    |
+| Phoenix Academy Charter Public High School, Chelsea                               | 51.4    |
+| Wareham Cooperative Alternative School                                            | 48      |
+| Full Circle High School                                                           | 47.4    |
+| Trinity Day Academy                                                               | 46.7    |
+| Murdock Academy for Success                                                       | 46.7    |
+| Greenleaf Academy                                                                 | 45.5    |
+| Springfield High School                                                           | 44.3    |
+| Resiliency Preparatory Academy                                                    | 41.3    |
+| Salem Prep High School                                                            | 37.5    |
+| CityLab Innovation High School                                                    | 36.5    |
+| TEC Connections Academy Commonwealth Virtual School                               | 35      |
+| Phoenix Academy Public Charter High School, Springfield                           | 34.7    |
+| Boston Day and Evening Academy Charter School                                     | 32.2    |
+| Lowell Middlesex Academy Charter School                                           | 31      |
+| Gateway Academy                                                                   | 30      |
+| Curtis-Tufts                                                                      | 28.6    |
+| Southbridge High School                                                           | 28      |
+| Boston Collaborative High School                                                  | 27.8    |
+| Greater Commonwealth Virtual School                                               | 26.6    |
+| Community Academy                                                                 | 26.1    |
+| Greater Egleston High School                                                      | 25.4    |
+| Martha's Vineyard Charter Public School                                           | 25      |
+| Brockton Champion High School                                                     | 22.6    |
+| School for Exceptional Studies                                                    | 22.2    |
+| McKinley Schools                                                                  | 20      |
+| Fecteau-Leary Junior/Senior High School                                           | 17.9    |
+| Brighton High School                                                              | 17.4    |
+| Boston Adult Tech Academy                                                         | 15.9    |
+| The Career Academy                                                                | 15.8    |
+| Leominster Center for Excellence                                                  | 15.4    |
+| Bartlett High School                                                              | 15.3    |
+| Madison Park Technical Vocational High School                                     | 14.8    |
+| Edison Academy                                                                    | 14.7    |
+| Amesbury Innovation High School                                                   | 14.3    |
+| Gateway to College                                                                | 14.3    |
+| Attleboro Community Academy                                                       | 14      |
+| Gardner Academy for Learning and Technology                                       | 13.2    |
+| Lynn English High                                                                 | 12.9    |
+| Chelsea High                                                                      | 12.8    |
+| Boston International High School & Newcomers Academy                              | 12.6    |
+| Burke High School                                                                 | 12.5    |
+| Holyoke High                                                                      | 12.2    |
+| Mohawk Trail Regional School                                                      | 11.9    |
+| Chelsea Opportunity Academy                                                       | 11.8    |
+| Classical High                                                                    | 11.6    |
+| Leblanc Therapeutic Day School                                                    | 11.1    |
+| Phoenix Academy Public Charter High School, Lawrence                              | 11.1    |
+| English High School                                                               | 10.8    |
+| Malden High                                                                       | 10.8    |
+| Charlestown High School                                                           | 10.7    |
+| Hoosac Valley High School                                                         | 10.6    |
+| Randolph High                                                                     | 10.6    |
+| Milford High                                                                      | 10.5    |
+| Waltham Sr High                                                                   | 10.4    |
+| Everett High                                                                      | 10.2    |
+| Narragansett Regional High                                                        | 10.2    |
+| Hudson High                                                                       | 10.1    |
+| New Bedford High                                                                  | 10.1    |
+| North Brookfield High                                                             | 10      |
+| Ware Junior/Senior High School                                                    | 10      |
+| Falmouth High                                                                     | 9.6     |
+| Brooke Charter School                                                             | 9.5     |
+| High School Of Commerce                                                           | 9.5     |
+| Wareham Senior High                                                               | 9.3     |
+| Athol High                                                                        | 9.2     |
+| Huntington Therapeutic Day School                                                 | 9.1     |
+| Gloucester High                                                                   | 8.9     |
+| Lowell High                                                                       | 8.9     |
+| Northbridge High                                                                  | 8.9     |
+| Holbrook Middle High School                                                       | 8.8     |
+| Lawrence High School                                                              | 8.8     |
+| Drury High                                                                        | 8.8     |
+| Taconic High                                                                      | 8.7     |
+| RISE Academy                                                                      | 8.6     |
+| Excel High School                                                                 | 8.4     |
+| Pittsfield High                                                                   | 8.3     |
+| Chicopee High                                                                     | 8.2     |
+| Springfield High School of Science and Technology                                 | 8.2     |
+| Claremont Academy                                                                 | 8.1     |
+| Community Academy of Science and Health                                           | 8       |
+| Codman Academy Charter Public School                                              | 8       |
+| Turners Fall High                                                                 | 7.9     |
+| Marlborough High                                                                  | 7.8     |
+| Taunton Alternative High School                                                   | 7.8     |
+| East Boston High School                                                           | 7.7     |
+| B M C Durfee High                                                                 | 7.7     |
+| Westport Middle-High School                                                       | 7.7     |
+| Snowden International High School                                                 | 7.6     |
+| North High                                                                        | 7.6     |
+| Revere High                                                                       | 7.5     |
+| Framingham High School                                                            | 7.3     |
+| Maynard High                                                                      | 7.3     |
+| Monument Mt Regional High                                                         | 7.1     |
+| Margarita Muniz Academy                                                           | 7.1     |
+| Salem High                                                                        | 7       |
+| Peabody Veterans Memorial High                                                    | 6.9     |
+| Watertown High                                                                    | 6.8     |
+| Lyon High School                                                                  | 6.7     |
+| Haverhill High                                                                    | 6.7     |
+| Goodrich Academy                                                                  | 6.6     |
+| David Prouty High                                                                 | 6.6     |
+| Burncoat Senior High                                                              | 6.6     |
+| Agawam High                                                                       | 6.5     |
+| Boston Community Leadership Academy                                               | 6.4     |
+| Douglas High School                                                               | 6.4     |
+| Fenway High School                                                                | 6.3     |
+| City on a Hill Charter Public School                                              | 6.3     |
+| Conservatory of the Arts                                                          | 6.3     |
+| Brockton High                                                                     | 6.2     |
+| Oxford High                                                                       | 6.2     |
+| Fairhaven High                                                                    | 6       |
+| Rockland Senior High                                                              | 6       |
+| South High Community                                                              | 6       |
+| Mt Everett Regional                                                               | 5.9     |
+| Roxbury Preparatory Charter School                                                | 5.8     |
+| Springfield Central High                                                          | 5.8     |
+| Greenfield High                                                                   | 5.7     |
+| Dennis-Yarmouth Regional High                                                     | 5.6     |
+| Millbury Junior/Senior High                                                       | 5.6     |
+| Gateway to College at Holyoke Community College                                   | 5.6     |
+| Chicopee Comprehensive High School                                                | 5.4     |
+| Joseph P Keefe Technical High School                                              | 5.4     |
+| Barnstable High                                                                   | 5.3     |
+| Stoughton High                                                                    | 5.3     |
+| West Springfield High                                                             | 5.3     |
+| Doherty Memorial High                                                             | 5.3     |
+| Cape Cod Region Vocational Technical                                              | 5.2     |
+| Shepherd Hill Regional High                                                       | 5.2     |
+| Ralph C Mahar Regional                                                            | 5.2     |
+| Winthrop High School                                                              | 5.2     |
+| Boston Arts Academy                                                               | 5.1     |
+| Easthampton High                                                                  | 5.1     |
+| Leicester High                                                                    | 5.1     |
+| Saugus High                                                                       | 5.1     |
+| Methuen High                                                                      | 5       |
+| Quabbin Regional High School                                                      | 4.9     |
+| Minuteman Regional High                                                           | 4.8     |
+| Neighborhood House Charter School                                                 | 4.8     |
+| Smith Vocational and Agricultural High                                            | 4.8     |
+| Southwick Regional School                                                         | 4.8     |
+| Frontier Regional                                                                 | 4.7     |
+| Hopkins Academy                                                                   | 4.7     |
+| Lee Middle/High School                                                            | 4.5     |
+| South Shore Vocational Technical High                                             | 4.5     |
+| Medford High                                                                      | 4.4     |
+| Ludlow Senior High                                                                | 4.3     |
+| Charles McCann Vocational Technical                                               | 4.3     |
+| Uxbridge High                                                                     | 4.3     |
+| Baystate Academy Charter Public School                                            | 4.1     |
+| Pathfinder Vocational Technical                                                   | 4.1     |
+| Smith Academy                                                                     | 4       |
+| Newburyport High                                                                  | 3.9     |
+| Triton Regional High School                                                       | 3.9     |
+| TechBoston Academy                                                                | 3.8     |
+| Boston Green Academy Horace Mann Charter School                                   | 3.8     |
+| Franklin County Technical                                                         | 3.8     |
+| North Middlesex Regional                                                          | 3.8     |
+| Quincy High                                                                       | 3.8     |
+| Abington High                                                                     | 3.7     |
+| Bristol-Plymouth Vocational Technical                                             | 3.7     |
+| Granby Jr Sr High School                                                          | 3.6     |
+| Gr New Bedford Vocational Technical                                               | 3.6     |
+| Hampden Charter School of Science East                                            | 3.6     |
+| Westfield Technical Academy                                                       | 3.6     |
+| Gateway Regional High                                                             | 3.5     |
+| Martha's Vineyard Regional High                                                   | 3.5     |
+| Whitman Hanson Regional                                                           | 3.5     |
+| Woburn High                                                                       | 3.5     |
+| Attleboro High                                                                    | 3.4     |
+| Pioneer Valley Chinese Immersion Charter School                                   | 3.4     |
+| Cambridge Rindge and Latin                                                        | 3.3     |
+| Dartmouth High                                                                    | 3.3     |
+| Dedham High                                                                       | 3.3     |
+| Nauset Regional High                                                              | 3.3     |
+| Norton High                                                                       | 3.3     |
+| Stoneham High                                                                     | 3.3     |
+| Weymouth High School                                                              | 3.3     |
+| Berkshire Arts and Technology Charter Public School                               | 3.2     |
+| Clinton Senior High                                                               | 3.2     |
+| Monson High School                                                                | 3.2     |
+| Sandwich Middle High School                                                       | 3.2     |
+| Henderson K-12 Inclusion School Upper                                             | 3.1     |
+| Bristol County Agricultural High                                                  | 3.1     |
+| Four Rivers Charter Public School                                                 | 3.1     |
+| Foxborough Regional Charter School                                                | 3.1     |
+| Innovation Academy Charter School                                                 | 3.1     |
+| Nipmuc Regional High                                                              | 3.1     |
+| Old Rochester Regional High                                                       | 3.1     |
+| Oakmont Regional High School                                                      | 3       |
+| Wahconah Regional High                                                            | 3       |
+| Plymouth North High                                                               | 3       |
+| Rockport High                                                                     | 3       |
+| Taunton High                                                                      | 3       |
+| Hampshire Regional High                                                           | 2.9     |
+| Match Charter Public School                                                       | 2.9     |
+| Amesbury High                                                                     | 2.8     |
+| New Mission High School                                                           | 2.7     |
+| Hull High                                                                         | 2.7     |
+| Fitchburg High                                                                    | 2.6     |
+| Pentucket Regional Sr High                                                        | 2.6     |
+| Silver Lake Regional High                                                         | 2.6     |
+| Bourne High School                                                                | 2.5     |
+| Palmer High                                                                       | 2.5     |
+| Ayer Shirley Regional High School                                                 | 2.4     |
+| The Springfield Renaissance School an Expeditionary Learning School               | 2.4     |
+| Sutton High School                                                                | 2.4     |
+| Westfield High                                                                    | 2.4     |
+| Ashland High                                                                      | 2.3     |
+| Dighton-Rehoboth Regional High School                                             | 2.3     |
+| Tantasqua Regional Sr High                                                        | 2.3     |
+| Avon Middle High School                                                           | 2.2     |
+| Dracut Senior High                                                                | 2.2     |
+| Gardner High                                                                      | 2.2     |
+| Georgetown High School                                                            | 2.2     |
+| North Attleboro High                                                              | 2.2     |
+| Northampton High                                                                  | 2.2     |
+| Somerville High                                                                   | 2.2     |
+| Braintree High                                                                    | 2.1     |
+| Middleborough High                                                                | 2.1     |
+| Quaboag Regional High                                                             | 2.1     |
+| Wilmington High                                                                   | 2.1     |
+| Argosy Collegiate Charter School                                                  | 2       |
+| Dearborn 6-12 STEM Academy                                                        | 2       |
+| East Bridgewater JR./SR. High School                                              | 2       |
+| Medfield Senior High                                                              | 2       |
+| Springfield International Charter School                                          | 2       |
+| Seekonk High                                                                      | 2       |
+| Canton High                                                                       | 1.9     |
+| John J Duggan Academy                                                             | 1.9     |
+| Oliver Ames High                                                                  | 1.8     |
+| Littleton High School                                                             | 1.8     |
+| Nantucket High                                                                    | 1.8     |
+| Tyngsborough High School                                                          | 1.8     |
+| Wachusett Regional High                                                           | 1.8     |
+| Walpole High                                                                      | 1.8     |
+| Murdock High School                                                               | 1.8     |
+| Amherst Regional High                                                             | 1.7     |
+| Auburn Senior High                                                                | 1.7     |
+| Belchertown High                                                                  | 1.7     |
+| KIPP Academy Lynn Charter School                                                  | 1.7     |
+| Nashoba Valley Technical High School                                              | 1.7     |
+| Pioneer Valley Performing Arts Charter Public School                              | 1.7     |
+| Somerset Berkley Regional High School                                             | 1.7     |
+| Bedford High                                                                      | 1.6     |
+| Beverly High                                                                      | 1.6     |
+| Billerica Memorial High School                                                    | 1.6     |
+| Bridgewater-Raynham Regional                                                      | 1.6     |
+| Grafton High School                                                               | 1.6     |
+| Manchester Essex Regional High School                                             | 1.6     |
+| Swampscott High                                                                   | 1.6     |
+| Mansfield High                                                                    | 1.5     |
+| Norfolk County Agricultural                                                       | 1.5     |
+| Rising Tide Charter Public School                                                 | 1.5     |
+| Sturgis Charter Public School                                                     | 1.5     |
+| West Boylston Junior/Senior High                                                  | 1.5     |
+| Boston Collegiate Charter School                                                  | 1.4     |
+| Boston Preparatory Charter Public School                                          | 1.4     |
+| Hamilton-Wenham Regional High                                                     | 1.4     |
+| Hopedale Jr Sr High                                                               | 1.4     |
+| Masconomet Regional High School                                                   | 1.4     |
+| Plymouth South High                                                               | 1.4     |
+| Prospect Hill Academy Charter School                                              | 1.4     |
+| South Hadley High                                                                 | 1.4     |
+| Tewksbury Memorial High                                                           | 1.4     |
+| Bellingham High School                                                            | 1.3     |
+| Danvers High                                                                      | 1.3     |
+| Franklin High                                                                     | 1.3     |
+| Hingham High                                                                      | 1.3     |
+| King Philip Regional High                                                         | 1.3     |
+| High School Learning Center                                                       | 1.3     |
+| Leominster High School                                                            | 1.3     |
+| Lynn Vocational Technical Institute                                               | 1.3     |
+| Marshfield High                                                                   | 1.3     |
+| Medway High                                                                       | 1.3     |
+| Melrose High                                                                      | 1.3     |
+| Shrewsbury High School                                                            | 1.3     |
+| South Shore Charter Public School                                                 | 1.3     |
+| Abby Kelley Foster Charter Public School                                          | 1.2     |
+| Atlantis Charter School                                                           | 1.2     |
+| East Longmeadow High                                                              | 1.2     |
+| Minnechaug Regional High                                                          | 1.2     |
+| Mystic Valley Regional Charter School                                             | 1.2     |
+| Natick High                                                                       | 1.2     |
+| Norwood High                                                                      | 1.2     |
+| Wakefield Memorial High                                                           | 1.2     |
+| Assabet Valley Vocational High School                                             | 1.1     |
+| Blackstone Millville RHS                                                          | 1.1     |
+| Gr Lawrence Regional Vocational Technical                                         | 1.1     |
+| Gr Lowell Regional Vocational Technical                                           | 1.1     |
+| Millis High School                                                                | 1.1     |
+| Mt Greylock Regional High                                                         | 1.1     |
+| North Reading High                                                                | 1.1     |
+| Sharon High                                                                       | 1.1     |
+| Whittier Regional Vocational                                                      | 1.1     |
+| Holliston High                                                                    | 1       |
+| Newton North High                                                                 | 1       |
+| Roger L. Putnam Vocational Technical Academy                                      | 1       |
+| Carver Middle/High School                                                         | 0.9     |
+| Essex North Shore Agricultural and Technical School                               | 0.9     |
+| Diman Regional Vocational Technical High                                          | 0.9     |
+| Lexington High                                                                    | 0.9     |
+| Lunenburg High                                                                    | 0.9     |
+| Monomoy Regional High School                                                      | 0.9     |
+| North Quincy High                                                                 | 0.9     |
+| Tantasqua Regional Vocational                                                     | 0.9     |
+| West Bridgewater Junior/Senior                                                    | 0.9     |
+| Westborough High                                                                  | 0.9     |
+| Lincoln-Sudbury Regional High                                                     | 0.8     |
+| Mashpee Middle-High School                                                        | 0.8     |
+| Nashoba Regional                                                                  | 0.8     |
+| Newton South High                                                                 | 0.8     |
+| North Andover High                                                                | 0.8     |
+| Algonquin Regional High                                                           | 0.8     |
+| Old Colony Regional Vocational Technical                                          | 0.8     |
+| Acton-Boxborough Regional High                                                    | 0.7     |
+| Milton High                                                                       | 0.7     |
+| Northeast Metro Regional Vocational                                               | 0.7     |
+| Bay Path Regional Vocational Technical High School                                | 0.7     |
+| Joseph Case High                                                                  | 0.7     |
+| Westford Academy                                                                  | 0.7     |
+| Brookline High                                                                    | 0.6     |
+| Norwell High                                                                      | 0.6     |
+| Shawsheen Valley Vocational Technical High School                                 | 0.6     |
+| Southeastern Regional Vocational Technical                                        | 0.6     |
+| Foxborough High                                                                   | 0.5     |
+| Apponequet Regional High                                                          | 0.5     |
+| Longmeadow High                                                                   | 0.5     |
+| Pembroke High School                                                              | 0.5     |
+| Tri-County Regional Vocational Technical                                          | 0.5     |
+| Burlington High                                                                   | 0.4     |
+| Duxbury High                                                                      | 0.4     |
+| Marblehead High                                                                   | 0.4     |
+| Scituate High School                                                              | 0.4     |
+| Wayland High School                                                               | 0.4     |
+| Arlington High                                                                    | 0.3     |
+| Chelmsford High                                                                   | 0.3     |
+| Montachusett Regional Vocational Technical                                        | 0.3     |
+| Reading Memorial High                                                             | 0.3     |
+| Wellesley Sr High                                                                 | 0.3     |
+| Winchester High School                                                            | 0.3     |
+| Worcester Technical High                                                          | 0.3     |
+| Andover High                                                                      | 0.2     |
+| Boston Latin School                                                               | 0.2     |
+| Needham High                                                                      | 0.2     |
+| Academy Of the Pacific Rim Charter Public School                                  | 0       |
+| Advanced Math and Science Academy Charter School                                  | 0       |
+| Keough Memorial Academy                                                           | 0       |
+| Belmont High                                                                      | 0       |
+| Tahanto Regional High                                                             | 0       |
+| Blackstone Valley                                                                 | 0       |
+| Blue Hills Regional Vocational Technical                                          | 0       |
+| Another Course To College                                                         | 0       |
+| Boston Latin Academy                                                              | 0       |
+| O'Bryant School of Math & Science                                                 | 0       |
+| Quincy Upper School                                                               | 0       |
+| Cohasset High School                                                              | 0       |
+| Community Charter School of Cambridge                                             | 0       |
+| Concord Carlisle High                                                             | 0       |
+| Dover-Sherborn Regional High                                                      | 0       |
+| Edward M. Kennedy Academy for Health Careers: A Horace Mann Charter Public School | 0       |
+| Excel Academy Charter School                                                      | 0       |
+| Francis W. Parker Charter Essential School                                        | 0       |
+| Global Learning Charter Public School                                             | 0       |
+| Groton Dunstable Regional                                                         | 0       |
+| Hanover High                                                                      | 0       |
+| Bromfield                                                                         | 0       |
+| Hopkinton High                                                                    | 0       |
+| Ipswich High                                                                      | 0       |
+| Lenox Memorial High                                                               | 0       |
+| Center For Technical Education Innovation                                         | 0       |
+| Lynnfield High                                                                    | 0       |
+| Ma Academy for Math and Science School                                            | 0       |
+| Map Academy Charter School                                                        | 0       |
+| New Heights Charter School of Brockton                                            | 0       |
+| Paulo Freire Social Justice Charter School                                        | 0       |
+| Pioneer Charter School of Science                                                 | 0       |
+| Pioneer Charter School of Science II                                              | 0       |
+| Pioneer Valley Regional                                                           | 0       |
+| Salem Academy Charter School                                                      | 0       |
+| Sizer School: A North Central Charter Essential School                            | 0       |
+| Gateway to College at Springfield Technical Community College                     | 0       |
+| Upper Cape Cod Vocational Technical                                               | 0       |
+| Weston High                                                                       | 0       |
+| Westwood High                                                                     | 0       |
+| University Pk Campus School                                                       | 0       |
++-----------------------------------------------------------------------------------+---------+
