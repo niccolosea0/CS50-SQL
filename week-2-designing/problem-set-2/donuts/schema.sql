@@ -1,0 +1,48 @@
+CREATE TABLE "ingredients" (
+    "id" INTEGER,
+    "type" TEXT NOT NULL UNIQUE,
+    "unit" TEXT NOT NULL,
+    "price_per_unit" REAL NOT NULL CHECK("price_per_unit" > 0),
+    PRIMARY KEY("id")
+);
+
+CREATE TABLE "donuts" (
+    "id" INTEGER,
+    "name" TEXT NOT NULL UNIQUE,
+    "is_gluten_free" INTEGER NOT NULL CHECK("is_gluten_free" IN (0, 1)),
+    "price" REAL NOT NULL CHECK("price" > 0),
+    PRIMARY KEY("id")
+);
+
+CREATE TABLE "donut_ingredients" (
+    "donut_id" INTEGER NOT NULL,
+    "ingredient_id" INTEGER NOT NULL,
+    PRIMARY KEY("donut_id", "ingredient_id"),
+    FOREIGN KEY("donut_id") REFERENCES "donuts"("id") ON DELETE CASCADE,
+    FOREIGN KEY("ingredient_id") REFERENCES "ingredients"("id") ON DELETE CASCADE
+);
+
+CREATE TABLE "orders" (
+    "id" INTEGER,
+    "customer_id" INTEGER NOT NULL,
+    "order_date" TEXT NOT NULL,
+    PRIMARY KEY("id"),
+    FOREIGN KEY("customer_id") REFERENCES "customers"("id") ON DELETE CASCADE
+);
+
+CREATE TABLE "order_items" (
+    "order_id" INTEGER NOT NULL,
+    "donut_id" INTEGER NOT NULL,
+    "quantity" INTEGER NOT NULL CHECK("quantity" > 0),
+    PRIMARY KEY("order_id", "donut_id"),
+    FOREIGN KEY("order_id") REFERENCES "orders"("id") ON DELETE CASCADE,
+    FOREIGN KEY("donut_id") REFERENCES "donuts"("id") ON DELETE CASCADE
+);
+
+CREATE TABLE "customers" (
+    "id" INTEGER NOT NULL,
+    "first_name" TEXT NOT NULL,
+    "last_name" TEXT NOT NULL,
+    UNIQUE("first_name", "last_name"),
+    PRIMARY KEY("id")
+)
