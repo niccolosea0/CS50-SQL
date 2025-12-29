@@ -1,9 +1,5 @@
 # Design Document
 
-By YOUR NAME HERE
-
-Video overview: <URL HERE>
-
 ## Scope
 
 ### What is the purpose of your database?
